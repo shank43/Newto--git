@@ -1,3 +1,1 @@
-heloo 
-wlcome to my git repo
-
+using git
